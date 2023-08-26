@@ -18,8 +18,8 @@ Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
 
-# CODE and OUTPUT
-'''
+# CODE 
+```
 import pandas as pd
 df=pd.read_csv("Data_set.csv")
 print(df)
@@ -47,4 +47,8 @@ df.head()
 df.info()
 
 df.isnull().sum()
-'''
+```
+### OUTPUT
+
+### Data
+
