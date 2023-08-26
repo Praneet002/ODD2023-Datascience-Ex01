@@ -51,9 +51,22 @@ df.isnull().sum()
 ### OUTPUT
 
 ### Data
-![image](https://github.com/Praneet002/ODD2023-Datascience-Ex01/blob/main/DS-1.png)
+![image](DS-1.png)
 
 ### Non Before Null
-![image](https://github.com/Praneet002/ODD2023-Datascience-Ex01/blob/main/DS-2.png)
+![image](DS-2.png)
 
 ### Mode
+![image](DS-3.png)
+
+### Mean
+![image](DS-4.png)
+
+### Median
+![image](DS-5.png)
+
+### Non Null After
+![image](DS-6.png)
+
+### Result
+Thus the given data is read, cleansed and the cleaned data is saved into the file.
