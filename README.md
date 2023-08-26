@@ -54,3 +54,6 @@ df.isnull().sum()
 ![image](https://github.com/Praneet002/ODD2023-Datascience-Ex01/blob/main/DS-1.png)
 
 ### Non Before Null
+![image](https://github.com/Praneet002/ODD2023-Datascience-Ex01/blob/main/DS-2.png)
+
+### Mode
